@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  myapp:
+    build: . 
+    container_name: taller_views
+    ports:
+      - 8000:8000
+    volumes:
+      - .:/app/
+
+networks:
+  default:
+    external: True 
+    name: development
