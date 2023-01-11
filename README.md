@@ -252,6 +252,7 @@ La numeración para {{name}} es la siguiente:
 -   lista de números: `array[int]`
 
 Links PPT:  [Diapositivas](https://docs.google.com/presentation/d/e/2PACX-1vSn3IzFUz9cNcJwDeDZK2F48JlEZ-2wu5AxF6V66gh253XfIEd-DcHMAZjpkSAHuiezakzkeL1levuD/embed?start=false&loop=false&delayms=3000&slide=id.g16b26a04f67_0_0)
+
 Links Youtube:
 - [Teoria](https://www.youtube.com/watch?v=ke_lu-UTjn4&list=PLxI5H7lUXWhjV-yCSEuJXxsDmNESrvbw3&index=6&ab_channel=Silabuz)
 - [Practica](https://www.youtube.com/watch?v=t2KwCKvqATg&list=PLxI5H7lUXWhjV-yCSEuJXxsDmNESrvbw3&index=7&ab_channel=Silabuz)
